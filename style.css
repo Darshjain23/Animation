@@ -1,0 +1,24 @@
+
+img{
+    position: absolute;
+    height: 300px;
+    left: 400px;
+    top: 70px;
+}
+
+.rotate{
+    transform: rotate(90deg);
+}
+
+.rotate1{
+    transform: rotate(180deg);
+}
+
+.rotate2{
+    transform: rotate(270deg);
+}
+
+.rotate3{
+    transform: rotate(360deg);
+}
+
